@@ -8,7 +8,7 @@ This entire project, from a simple Python script to a full-fledged web applicati
 
 ---
 
-![Project Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/project-screenshot.png)
+![Project Screenshot](https://raw.githubusercontent.com/Aditya-Sai-19/BMI_ONLINE/main/project-screenshot.png)
 *(You will need to add a screenshot of your project to the repository and update this link)*
 
 ## ✨ Features
