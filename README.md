@@ -74,4 +74,4 @@ This project began as a simple desktop application written in **Python** with a 
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE.md).
